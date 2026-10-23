@@ -1,0 +1,6314 @@
+[
+  {
+    "job_id": "DEMO-JOB-1001",
+    "role": "Full Stack Developer",
+    "company_type": "Consumer Tech",
+    "company_name": "Consumer Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Authentication",
+      "Testing",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "JavaScript": 9,
+      "TypeScript": 8,
+      "React": 9,
+      "Node.js": 9,
+      "REST APIs": 9,
+      "SQL": 8,
+      "HTML": 7,
+      "CSS": 7,
+      "Git": 8,
+      "Docker": 7,
+      "Cloud": 6,
+      "PostgreSQL": 7,
+      "MongoDB": 6,
+      "Authentication": 8,
+      "Testing": 6,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Authentication"
+    ],
+    "optional_skills": [
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Testing",
+      "CI/CD"
+    ],
+    "location": "Remote",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "Node.js",
+      "Express",
+      "REST APIs",
+      "TypeScript",
+      "PostgreSQL",
+      "Git",
+      "Docker"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1002",
+    "role": "Full Stack Developer",
+    "company_type": "Cybersecurity",
+    "company_name": "Cybersecurity Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Authentication",
+      "Testing",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "JavaScript": 9,
+      "TypeScript": 8,
+      "React": 9,
+      "Node.js": 9,
+      "REST APIs": 9,
+      "SQL": 8,
+      "HTML": 7,
+      "CSS": 7,
+      "Git": 8,
+      "Docker": 7,
+      "Cloud": 6,
+      "PostgreSQL": 7,
+      "MongoDB": 6,
+      "Authentication": 8,
+      "Testing": 6,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Authentication"
+    ],
+    "optional_skills": [
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Testing",
+      "CI/CD"
+    ],
+    "location": "Bangalore, India",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Node.js",
+      "MongoDB",
+      "REST APIs",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1003",
+    "role": "Full Stack Developer",
+    "company_type": "Cloud Consulting",
+    "company_name": "Cloud Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Authentication",
+      "Testing",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "JavaScript": 9,
+      "TypeScript": 8,
+      "React": 9,
+      "Node.js": 9,
+      "REST APIs": 9,
+      "SQL": 8,
+      "HTML": 7,
+      "CSS": 7,
+      "Git": 8,
+      "Docker": 7,
+      "Cloud": 6,
+      "PostgreSQL": 7,
+      "MongoDB": 6,
+      "Authentication": 8,
+      "Testing": 6,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Authentication"
+    ],
+    "optional_skills": [
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Testing",
+      "CI/CD"
+    ],
+    "location": "Seattle, WA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Vue.js",
+      "Node.js",
+      "Express",
+      "SQL",
+      "Docker",
+      "AWS",
+      "Git",
+      "CI/CD"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1004",
+    "role": "Full Stack Developer",
+    "company_type": "AI Startup",
+    "company_name": "AI Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Authentication",
+      "Testing",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "JavaScript": 9,
+      "TypeScript": 8,
+      "React": 9,
+      "Node.js": 9,
+      "REST APIs": 9,
+      "SQL": 8,
+      "HTML": 7,
+      "CSS": 7,
+      "Git": 8,
+      "Docker": 7,
+      "Cloud": 6,
+      "PostgreSQL": 7,
+      "MongoDB": 6,
+      "Authentication": 8,
+      "Testing": 6,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Authentication"
+    ],
+    "optional_skills": [
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Testing",
+      "CI/CD"
+    ],
+    "location": "New York, NY",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "REST APIs",
+      "Git",
+      "Authentication"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1005",
+    "role": "Full Stack Developer",
+    "company_type": "E-Commerce Scale-up",
+    "company_name": "E-Commerce Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Authentication",
+      "Testing",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "JavaScript": 9,
+      "TypeScript": 8,
+      "React": 9,
+      "Node.js": 9,
+      "REST APIs": 9,
+      "SQL": 8,
+      "HTML": 7,
+      "CSS": 7,
+      "Git": 8,
+      "Docker": 7,
+      "Cloud": 6,
+      "PostgreSQL": 7,
+      "MongoDB": 6,
+      "Authentication": 8,
+      "Testing": 6,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Authentication"
+    ],
+    "optional_skills": [
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Testing",
+      "CI/CD"
+    ],
+    "location": "London, UK",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Angular",
+      "Node.js",
+      "NestJS",
+      "TypeScript",
+      "SQL",
+      "Docker",
+      "Git",
+      "Testing"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1006",
+    "role": "Full Stack Developer",
+    "company_type": "Enterprise SaaS",
+    "company_name": "Enterprise Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Authentication",
+      "Testing",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "JavaScript": 9,
+      "TypeScript": 8,
+      "React": 9,
+      "Node.js": 9,
+      "REST APIs": 9,
+      "SQL": 8,
+      "HTML": 7,
+      "CSS": 7,
+      "Git": 8,
+      "Docker": 7,
+      "Cloud": 6,
+      "PostgreSQL": 7,
+      "MongoDB": 6,
+      "Authentication": 8,
+      "Testing": 6,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Authentication"
+    ],
+    "optional_skills": [
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Testing",
+      "CI/CD"
+    ],
+    "location": "San Francisco, CA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "Node.js",
+      "Express",
+      "REST APIs",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "MySQL",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1007",
+    "role": "Full Stack Developer",
+    "company_type": "Healthtech",
+    "company_name": "Healthtech Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Authentication",
+      "Testing",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "JavaScript": 9,
+      "TypeScript": 8,
+      "React": 9,
+      "Node.js": 9,
+      "REST APIs": 9,
+      "SQL": 8,
+      "HTML": 7,
+      "CSS": 7,
+      "Git": 8,
+      "Docker": 7,
+      "Cloud": 6,
+      "PostgreSQL": 7,
+      "MongoDB": 6,
+      "Authentication": 8,
+      "Testing": 6,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Authentication"
+    ],
+    "optional_skills": [
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Testing",
+      "CI/CD"
+    ],
+    "location": "Austin, TX",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "Node.js",
+      "Express",
+      "REST APIs",
+      "TypeScript",
+      "PostgreSQL",
+      "Git",
+      "Docker"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1008",
+    "role": "Full Stack Developer",
+    "company_type": "Fintech",
+    "company_name": "Fintech Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Authentication",
+      "Testing",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "JavaScript": 9,
+      "TypeScript": 8,
+      "React": 9,
+      "Node.js": 9,
+      "REST APIs": 9,
+      "SQL": 8,
+      "HTML": 7,
+      "CSS": 7,
+      "Git": 8,
+      "Docker": 7,
+      "Cloud": 6,
+      "PostgreSQL": 7,
+      "MongoDB": 6,
+      "Authentication": 8,
+      "Testing": 6,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Authentication"
+    ],
+    "optional_skills": [
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Testing",
+      "CI/CD"
+    ],
+    "location": "Remote",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Node.js",
+      "MongoDB",
+      "REST APIs",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1009",
+    "role": "Full Stack Developer",
+    "company_type": "Consumer Tech",
+    "company_name": "Consumer Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Authentication",
+      "Testing",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "JavaScript": 9,
+      "TypeScript": 8,
+      "React": 9,
+      "Node.js": 9,
+      "REST APIs": 9,
+      "SQL": 8,
+      "HTML": 7,
+      "CSS": 7,
+      "Git": 8,
+      "Docker": 7,
+      "Cloud": 6,
+      "PostgreSQL": 7,
+      "MongoDB": 6,
+      "Authentication": 8,
+      "Testing": 6,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Authentication"
+    ],
+    "optional_skills": [
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Testing",
+      "CI/CD"
+    ],
+    "location": "Bangalore, India",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Vue.js",
+      "Node.js",
+      "Express",
+      "SQL",
+      "Docker",
+      "AWS",
+      "Git",
+      "CI/CD"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1010",
+    "role": "Full Stack Developer",
+    "company_type": "Cybersecurity",
+    "company_name": "Cybersecurity Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Authentication",
+      "Testing",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "JavaScript": 9,
+      "TypeScript": 8,
+      "React": 9,
+      "Node.js": 9,
+      "REST APIs": 9,
+      "SQL": 8,
+      "HTML": 7,
+      "CSS": 7,
+      "Git": 8,
+      "Docker": 7,
+      "Cloud": 6,
+      "PostgreSQL": 7,
+      "MongoDB": 6,
+      "Authentication": 8,
+      "Testing": 6,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Authentication"
+    ],
+    "optional_skills": [
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Testing",
+      "CI/CD"
+    ],
+    "location": "Seattle, WA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "REST APIs",
+      "Git",
+      "Authentication"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1011",
+    "role": "Full Stack Developer",
+    "company_type": "Cloud Consulting",
+    "company_name": "Cloud Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Authentication",
+      "Testing",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "JavaScript": 9,
+      "TypeScript": 8,
+      "React": 9,
+      "Node.js": 9,
+      "REST APIs": 9,
+      "SQL": 8,
+      "HTML": 7,
+      "CSS": 7,
+      "Git": 8,
+      "Docker": 7,
+      "Cloud": 6,
+      "PostgreSQL": 7,
+      "MongoDB": 6,
+      "Authentication": 8,
+      "Testing": 6,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Authentication"
+    ],
+    "optional_skills": [
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Testing",
+      "CI/CD"
+    ],
+    "location": "New York, NY",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Angular",
+      "Node.js",
+      "NestJS",
+      "TypeScript",
+      "SQL",
+      "Docker",
+      "Git",
+      "Testing"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1012",
+    "role": "Full Stack Developer",
+    "company_type": "AI Startup",
+    "company_name": "AI Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Authentication",
+      "Testing",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "JavaScript": 9,
+      "TypeScript": 8,
+      "React": 9,
+      "Node.js": 9,
+      "REST APIs": 9,
+      "SQL": 8,
+      "HTML": 7,
+      "CSS": 7,
+      "Git": 8,
+      "Docker": 7,
+      "Cloud": 6,
+      "PostgreSQL": 7,
+      "MongoDB": 6,
+      "Authentication": 8,
+      "Testing": 6,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Authentication"
+    ],
+    "optional_skills": [
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Testing",
+      "CI/CD"
+    ],
+    "location": "London, UK",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "Node.js",
+      "Express",
+      "REST APIs",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "MySQL",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1013",
+    "role": "Full Stack Developer",
+    "company_type": "E-Commerce Scale-up",
+    "company_name": "E-Commerce Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Authentication",
+      "Testing",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "JavaScript": 9,
+      "TypeScript": 8,
+      "React": 9,
+      "Node.js": 9,
+      "REST APIs": 9,
+      "SQL": 8,
+      "HTML": 7,
+      "CSS": 7,
+      "Git": 8,
+      "Docker": 7,
+      "Cloud": 6,
+      "PostgreSQL": 7,
+      "MongoDB": 6,
+      "Authentication": 8,
+      "Testing": 6,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Authentication"
+    ],
+    "optional_skills": [
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Testing",
+      "CI/CD"
+    ],
+    "location": "San Francisco, CA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "Node.js",
+      "Express",
+      "REST APIs",
+      "TypeScript",
+      "PostgreSQL",
+      "Git",
+      "Docker"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1014",
+    "role": "Full Stack Developer",
+    "company_type": "Enterprise SaaS",
+    "company_name": "Enterprise Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Authentication",
+      "Testing",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "JavaScript": 9,
+      "TypeScript": 8,
+      "React": 9,
+      "Node.js": 9,
+      "REST APIs": 9,
+      "SQL": 8,
+      "HTML": 7,
+      "CSS": 7,
+      "Git": 8,
+      "Docker": 7,
+      "Cloud": 6,
+      "PostgreSQL": 7,
+      "MongoDB": 6,
+      "Authentication": 8,
+      "Testing": 6,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Authentication"
+    ],
+    "optional_skills": [
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Testing",
+      "CI/CD"
+    ],
+    "location": "Austin, TX",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Node.js",
+      "MongoDB",
+      "REST APIs",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1015",
+    "role": "Full Stack Developer",
+    "company_type": "Healthtech",
+    "company_name": "Healthtech Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Authentication",
+      "Testing",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "JavaScript": 9,
+      "TypeScript": 8,
+      "React": 9,
+      "Node.js": 9,
+      "REST APIs": 9,
+      "SQL": 8,
+      "HTML": 7,
+      "CSS": 7,
+      "Git": 8,
+      "Docker": 7,
+      "Cloud": 6,
+      "PostgreSQL": 7,
+      "MongoDB": 6,
+      "Authentication": 8,
+      "Testing": 6,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Authentication"
+    ],
+    "optional_skills": [
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Testing",
+      "CI/CD"
+    ],
+    "location": "Remote",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Vue.js",
+      "Node.js",
+      "Express",
+      "SQL",
+      "Docker",
+      "AWS",
+      "Git",
+      "CI/CD"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1016",
+    "role": "Full Stack Developer",
+    "company_type": "Fintech",
+    "company_name": "Fintech Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Authentication",
+      "Testing",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "JavaScript": 9,
+      "TypeScript": 8,
+      "React": 9,
+      "Node.js": 9,
+      "REST APIs": 9,
+      "SQL": 8,
+      "HTML": 7,
+      "CSS": 7,
+      "Git": 8,
+      "Docker": 7,
+      "Cloud": 6,
+      "PostgreSQL": 7,
+      "MongoDB": 6,
+      "Authentication": 8,
+      "Testing": 6,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Authentication"
+    ],
+    "optional_skills": [
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Testing",
+      "CI/CD"
+    ],
+    "location": "Bangalore, India",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "REST APIs",
+      "Git",
+      "Authentication"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1017",
+    "role": "Full Stack Developer",
+    "company_type": "Consumer Tech",
+    "company_name": "Consumer Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Authentication",
+      "Testing",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "JavaScript": 9,
+      "TypeScript": 8,
+      "React": 9,
+      "Node.js": 9,
+      "REST APIs": 9,
+      "SQL": 8,
+      "HTML": 7,
+      "CSS": 7,
+      "Git": 8,
+      "Docker": 7,
+      "Cloud": 6,
+      "PostgreSQL": 7,
+      "MongoDB": 6,
+      "Authentication": 8,
+      "Testing": 6,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Authentication"
+    ],
+    "optional_skills": [
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Testing",
+      "CI/CD"
+    ],
+    "location": "Seattle, WA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Angular",
+      "Node.js",
+      "NestJS",
+      "TypeScript",
+      "SQL",
+      "Docker",
+      "Git",
+      "Testing"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1018",
+    "role": "Full Stack Developer",
+    "company_type": "Cybersecurity",
+    "company_name": "Cybersecurity Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Authentication",
+      "Testing",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "JavaScript": 9,
+      "TypeScript": 8,
+      "React": 9,
+      "Node.js": 9,
+      "REST APIs": 9,
+      "SQL": 8,
+      "HTML": 7,
+      "CSS": 7,
+      "Git": 8,
+      "Docker": 7,
+      "Cloud": 6,
+      "PostgreSQL": 7,
+      "MongoDB": 6,
+      "Authentication": 8,
+      "Testing": 6,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Authentication"
+    ],
+    "optional_skills": [
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Testing",
+      "CI/CD"
+    ],
+    "location": "New York, NY",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "Node.js",
+      "Express",
+      "REST APIs",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "MySQL",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1019",
+    "role": "Full Stack Developer",
+    "company_type": "Cloud Consulting",
+    "company_name": "Cloud Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Authentication",
+      "Testing",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "JavaScript": 9,
+      "TypeScript": 8,
+      "React": 9,
+      "Node.js": 9,
+      "REST APIs": 9,
+      "SQL": 8,
+      "HTML": 7,
+      "CSS": 7,
+      "Git": 8,
+      "Docker": 7,
+      "Cloud": 6,
+      "PostgreSQL": 7,
+      "MongoDB": 6,
+      "Authentication": 8,
+      "Testing": 6,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Authentication"
+    ],
+    "optional_skills": [
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Testing",
+      "CI/CD"
+    ],
+    "location": "London, UK",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "Node.js",
+      "Express",
+      "REST APIs",
+      "TypeScript",
+      "PostgreSQL",
+      "Git",
+      "Docker"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1020",
+    "role": "Full Stack Developer",
+    "company_type": "AI Startup",
+    "company_name": "AI Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Authentication",
+      "Testing",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "JavaScript": 9,
+      "TypeScript": 8,
+      "React": 9,
+      "Node.js": 9,
+      "REST APIs": 9,
+      "SQL": 8,
+      "HTML": 7,
+      "CSS": 7,
+      "Git": 8,
+      "Docker": 7,
+      "Cloud": 6,
+      "PostgreSQL": 7,
+      "MongoDB": 6,
+      "Authentication": 8,
+      "Testing": 6,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Authentication"
+    ],
+    "optional_skills": [
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Testing",
+      "CI/CD"
+    ],
+    "location": "San Francisco, CA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Node.js",
+      "MongoDB",
+      "REST APIs",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1021",
+    "role": "Full Stack Developer",
+    "company_type": "E-Commerce Scale-up",
+    "company_name": "E-Commerce Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Authentication",
+      "Testing",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "JavaScript": 9,
+      "TypeScript": 8,
+      "React": 9,
+      "Node.js": 9,
+      "REST APIs": 9,
+      "SQL": 8,
+      "HTML": 7,
+      "CSS": 7,
+      "Git": 8,
+      "Docker": 7,
+      "Cloud": 6,
+      "PostgreSQL": 7,
+      "MongoDB": 6,
+      "Authentication": 8,
+      "Testing": 6,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Authentication"
+    ],
+    "optional_skills": [
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Testing",
+      "CI/CD"
+    ],
+    "location": "Austin, TX",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Vue.js",
+      "Node.js",
+      "Express",
+      "SQL",
+      "Docker",
+      "AWS",
+      "Git",
+      "CI/CD"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1022",
+    "role": "Full Stack Developer",
+    "company_type": "Enterprise SaaS",
+    "company_name": "Enterprise Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Authentication",
+      "Testing",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "JavaScript": 9,
+      "TypeScript": 8,
+      "React": 9,
+      "Node.js": 9,
+      "REST APIs": 9,
+      "SQL": 8,
+      "HTML": 7,
+      "CSS": 7,
+      "Git": 8,
+      "Docker": 7,
+      "Cloud": 6,
+      "PostgreSQL": 7,
+      "MongoDB": 6,
+      "Authentication": 8,
+      "Testing": 6,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Authentication"
+    ],
+    "optional_skills": [
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Testing",
+      "CI/CD"
+    ],
+    "location": "Remote",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "REST APIs",
+      "Git",
+      "Authentication"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1023",
+    "role": "Full Stack Developer",
+    "company_type": "Healthtech",
+    "company_name": "Healthtech Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Authentication",
+      "Testing",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "JavaScript": 9,
+      "TypeScript": 8,
+      "React": 9,
+      "Node.js": 9,
+      "REST APIs": 9,
+      "SQL": 8,
+      "HTML": 7,
+      "CSS": 7,
+      "Git": 8,
+      "Docker": 7,
+      "Cloud": 6,
+      "PostgreSQL": 7,
+      "MongoDB": 6,
+      "Authentication": 8,
+      "Testing": 6,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Authentication"
+    ],
+    "optional_skills": [
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Testing",
+      "CI/CD"
+    ],
+    "location": "Bangalore, India",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Angular",
+      "Node.js",
+      "NestJS",
+      "TypeScript",
+      "SQL",
+      "Docker",
+      "Git",
+      "Testing"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1024",
+    "role": "Full Stack Developer",
+    "company_type": "Fintech",
+    "company_name": "Fintech Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Authentication",
+      "Testing",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "JavaScript": 9,
+      "TypeScript": 8,
+      "React": 9,
+      "Node.js": 9,
+      "REST APIs": 9,
+      "SQL": 8,
+      "HTML": 7,
+      "CSS": 7,
+      "Git": 8,
+      "Docker": 7,
+      "Cloud": 6,
+      "PostgreSQL": 7,
+      "MongoDB": 6,
+      "Authentication": 8,
+      "Testing": 6,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Authentication"
+    ],
+    "optional_skills": [
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Testing",
+      "CI/CD"
+    ],
+    "location": "Seattle, WA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "Node.js",
+      "Express",
+      "REST APIs",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "MySQL",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1025",
+    "role": "Full Stack Developer",
+    "company_type": "Consumer Tech",
+    "company_name": "Consumer Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Authentication",
+      "Testing",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "JavaScript": 9,
+      "TypeScript": 8,
+      "React": 9,
+      "Node.js": 9,
+      "REST APIs": 9,
+      "SQL": 8,
+      "HTML": 7,
+      "CSS": 7,
+      "Git": 8,
+      "Docker": 7,
+      "Cloud": 6,
+      "PostgreSQL": 7,
+      "MongoDB": 6,
+      "Authentication": 8,
+      "Testing": 6,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "Authentication"
+    ],
+    "optional_skills": [
+      "Docker",
+      "Cloud",
+      "PostgreSQL",
+      "MongoDB",
+      "Testing",
+      "CI/CD"
+    ],
+    "location": "New York, NY",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "Node.js",
+      "Express",
+      "REST APIs",
+      "TypeScript",
+      "PostgreSQL",
+      "Git",
+      "Docker"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1026",
+    "role": "Frontend Developer",
+    "company_type": "Cybersecurity",
+    "company_name": "Cybersecurity Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design",
+      "Performance Optimization",
+      "Testing"
+    ],
+    "skill_importance": {
+      "JavaScript": 10,
+      "HTML": 9,
+      "CSS": 9,
+      "React": 9,
+      "TypeScript": 8,
+      "REST APIs": 8,
+      "Git": 8,
+      "Responsive Design": 8,
+      "Performance Optimization": 7,
+      "Testing": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design"
+    ],
+    "optional_skills": [
+      "Performance Optimization",
+      "Testing"
+    ],
+    "location": "London, UK",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Tailwind CSS",
+      "Redux",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1027",
+    "role": "Frontend Developer",
+    "company_type": "Cloud Consulting",
+    "company_name": "Cloud Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design",
+      "Performance Optimization",
+      "Testing"
+    ],
+    "skill_importance": {
+      "JavaScript": 10,
+      "HTML": 9,
+      "CSS": 9,
+      "React": 9,
+      "TypeScript": 8,
+      "REST APIs": 8,
+      "Git": 8,
+      "Responsive Design": 8,
+      "Performance Optimization": 7,
+      "Testing": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design"
+    ],
+    "optional_skills": [
+      "Performance Optimization",
+      "Testing"
+    ],
+    "location": "San Francisco, CA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Vue.js",
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "Pinia",
+      "Jest",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1028",
+    "role": "Frontend Developer",
+    "company_type": "AI Startup",
+    "company_name": "AI Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design",
+      "Performance Optimization",
+      "Testing"
+    ],
+    "skill_importance": {
+      "JavaScript": 10,
+      "HTML": 9,
+      "CSS": 9,
+      "React": 9,
+      "TypeScript": 8,
+      "REST APIs": 8,
+      "Git": 8,
+      "Responsive Design": 8,
+      "Performance Optimization": 7,
+      "Testing": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design"
+    ],
+    "optional_skills": [
+      "Performance Optimization",
+      "Testing"
+    ],
+    "location": "Austin, TX",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "REST APIs",
+      "Webpack",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1029",
+    "role": "Frontend Developer",
+    "company_type": "E-Commerce Scale-up",
+    "company_name": "E-Commerce Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design",
+      "Performance Optimization",
+      "Testing"
+    ],
+    "skill_importance": {
+      "JavaScript": 10,
+      "HTML": 9,
+      "CSS": 9,
+      "React": 9,
+      "TypeScript": 8,
+      "REST APIs": 8,
+      "Git": 8,
+      "Responsive Design": 8,
+      "Performance Optimization": 7,
+      "Testing": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design"
+    ],
+    "optional_skills": [
+      "Performance Optimization",
+      "Testing"
+    ],
+    "location": "Remote",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Tailwind CSS",
+      "Redux",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1030",
+    "role": "Frontend Developer",
+    "company_type": "Enterprise SaaS",
+    "company_name": "Enterprise Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design",
+      "Performance Optimization",
+      "Testing"
+    ],
+    "skill_importance": {
+      "JavaScript": 10,
+      "HTML": 9,
+      "CSS": 9,
+      "React": 9,
+      "TypeScript": 8,
+      "REST APIs": 8,
+      "Git": 8,
+      "Responsive Design": 8,
+      "Performance Optimization": 7,
+      "Testing": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design"
+    ],
+    "optional_skills": [
+      "Performance Optimization",
+      "Testing"
+    ],
+    "location": "Bangalore, India",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Vue.js",
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "Pinia",
+      "Jest",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1031",
+    "role": "Frontend Developer",
+    "company_type": "Healthtech",
+    "company_name": "Healthtech Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design",
+      "Performance Optimization",
+      "Testing"
+    ],
+    "skill_importance": {
+      "JavaScript": 10,
+      "HTML": 9,
+      "CSS": 9,
+      "React": 9,
+      "TypeScript": 8,
+      "REST APIs": 8,
+      "Git": 8,
+      "Responsive Design": 8,
+      "Performance Optimization": 7,
+      "Testing": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design"
+    ],
+    "optional_skills": [
+      "Performance Optimization",
+      "Testing"
+    ],
+    "location": "Seattle, WA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "REST APIs",
+      "Webpack",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1032",
+    "role": "Frontend Developer",
+    "company_type": "Fintech",
+    "company_name": "Fintech Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design",
+      "Performance Optimization",
+      "Testing"
+    ],
+    "skill_importance": {
+      "JavaScript": 10,
+      "HTML": 9,
+      "CSS": 9,
+      "React": 9,
+      "TypeScript": 8,
+      "REST APIs": 8,
+      "Git": 8,
+      "Responsive Design": 8,
+      "Performance Optimization": 7,
+      "Testing": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design"
+    ],
+    "optional_skills": [
+      "Performance Optimization",
+      "Testing"
+    ],
+    "location": "New York, NY",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Tailwind CSS",
+      "Redux",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1033",
+    "role": "Frontend Developer",
+    "company_type": "Consumer Tech",
+    "company_name": "Consumer Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design",
+      "Performance Optimization",
+      "Testing"
+    ],
+    "skill_importance": {
+      "JavaScript": 10,
+      "HTML": 9,
+      "CSS": 9,
+      "React": 9,
+      "TypeScript": 8,
+      "REST APIs": 8,
+      "Git": 8,
+      "Responsive Design": 8,
+      "Performance Optimization": 7,
+      "Testing": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design"
+    ],
+    "optional_skills": [
+      "Performance Optimization",
+      "Testing"
+    ],
+    "location": "London, UK",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Vue.js",
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "Pinia",
+      "Jest",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1034",
+    "role": "Frontend Developer",
+    "company_type": "Cybersecurity",
+    "company_name": "Cybersecurity Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design",
+      "Performance Optimization",
+      "Testing"
+    ],
+    "skill_importance": {
+      "JavaScript": 10,
+      "HTML": 9,
+      "CSS": 9,
+      "React": 9,
+      "TypeScript": 8,
+      "REST APIs": 8,
+      "Git": 8,
+      "Responsive Design": 8,
+      "Performance Optimization": 7,
+      "Testing": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design"
+    ],
+    "optional_skills": [
+      "Performance Optimization",
+      "Testing"
+    ],
+    "location": "San Francisco, CA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "REST APIs",
+      "Webpack",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1035",
+    "role": "Frontend Developer",
+    "company_type": "Cloud Consulting",
+    "company_name": "Cloud Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design",
+      "Performance Optimization",
+      "Testing"
+    ],
+    "skill_importance": {
+      "JavaScript": 10,
+      "HTML": 9,
+      "CSS": 9,
+      "React": 9,
+      "TypeScript": 8,
+      "REST APIs": 8,
+      "Git": 8,
+      "Responsive Design": 8,
+      "Performance Optimization": 7,
+      "Testing": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design"
+    ],
+    "optional_skills": [
+      "Performance Optimization",
+      "Testing"
+    ],
+    "location": "Austin, TX",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Tailwind CSS",
+      "Redux",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1036",
+    "role": "Frontend Developer",
+    "company_type": "AI Startup",
+    "company_name": "AI Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design",
+      "Performance Optimization",
+      "Testing"
+    ],
+    "skill_importance": {
+      "JavaScript": 10,
+      "HTML": 9,
+      "CSS": 9,
+      "React": 9,
+      "TypeScript": 8,
+      "REST APIs": 8,
+      "Git": 8,
+      "Responsive Design": 8,
+      "Performance Optimization": 7,
+      "Testing": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design"
+    ],
+    "optional_skills": [
+      "Performance Optimization",
+      "Testing"
+    ],
+    "location": "Remote",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Vue.js",
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "Pinia",
+      "Jest",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1037",
+    "role": "Frontend Developer",
+    "company_type": "E-Commerce Scale-up",
+    "company_name": "E-Commerce Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design",
+      "Performance Optimization",
+      "Testing"
+    ],
+    "skill_importance": {
+      "JavaScript": 10,
+      "HTML": 9,
+      "CSS": 9,
+      "React": 9,
+      "TypeScript": 8,
+      "REST APIs": 8,
+      "Git": 8,
+      "Responsive Design": 8,
+      "Performance Optimization": 7,
+      "Testing": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design"
+    ],
+    "optional_skills": [
+      "Performance Optimization",
+      "Testing"
+    ],
+    "location": "Bangalore, India",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "REST APIs",
+      "Webpack",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1038",
+    "role": "Frontend Developer",
+    "company_type": "Enterprise SaaS",
+    "company_name": "Enterprise Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design",
+      "Performance Optimization",
+      "Testing"
+    ],
+    "skill_importance": {
+      "JavaScript": 10,
+      "HTML": 9,
+      "CSS": 9,
+      "React": 9,
+      "TypeScript": 8,
+      "REST APIs": 8,
+      "Git": 8,
+      "Responsive Design": 8,
+      "Performance Optimization": 7,
+      "Testing": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design"
+    ],
+    "optional_skills": [
+      "Performance Optimization",
+      "Testing"
+    ],
+    "location": "Seattle, WA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Tailwind CSS",
+      "Redux",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1039",
+    "role": "Frontend Developer",
+    "company_type": "Healthtech",
+    "company_name": "Healthtech Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design",
+      "Performance Optimization",
+      "Testing"
+    ],
+    "skill_importance": {
+      "JavaScript": 10,
+      "HTML": 9,
+      "CSS": 9,
+      "React": 9,
+      "TypeScript": 8,
+      "REST APIs": 8,
+      "Git": 8,
+      "Responsive Design": 8,
+      "Performance Optimization": 7,
+      "Testing": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design"
+    ],
+    "optional_skills": [
+      "Performance Optimization",
+      "Testing"
+    ],
+    "location": "New York, NY",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Vue.js",
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "Pinia",
+      "Jest",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1040",
+    "role": "Frontend Developer",
+    "company_type": "Fintech",
+    "company_name": "Fintech Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design",
+      "Performance Optimization",
+      "Testing"
+    ],
+    "skill_importance": {
+      "JavaScript": 10,
+      "HTML": 9,
+      "CSS": 9,
+      "React": 9,
+      "TypeScript": 8,
+      "REST APIs": 8,
+      "Git": 8,
+      "Responsive Design": 8,
+      "Performance Optimization": 7,
+      "Testing": 6
+    },
+    "required_skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      "Git",
+      "Responsive Design"
+    ],
+    "optional_skills": [
+      "Performance Optimization",
+      "Testing"
+    ],
+    "location": "London, UK",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "REST APIs",
+      "Webpack",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1041",
+    "role": "Backend Developer",
+    "company_type": "Consumer Tech",
+    "company_name": "Consumer Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git",
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "Node.js": 9,
+      "REST APIs": 10,
+      "SQL": 9,
+      "PostgreSQL": 8,
+      "Docker": 8,
+      "Authentication": 8,
+      "Git": 8,
+      "Microservices": 7,
+      "Redis": 7,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git"
+    ],
+    "optional_skills": [
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "location": "San Francisco, CA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Node.js",
+      "Express",
+      "TypeScript",
+      "PostgreSQL",
+      "Docker",
+      "Redis",
+      "REST APIs"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1042",
+    "role": "Backend Developer",
+    "company_type": "Cybersecurity",
+    "company_name": "Cybersecurity Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git",
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "Node.js": 9,
+      "REST APIs": 10,
+      "SQL": 9,
+      "PostgreSQL": 8,
+      "Docker": 8,
+      "Authentication": 8,
+      "Git": 8,
+      "Microservices": 7,
+      "Redis": 7,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git"
+    ],
+    "optional_skills": [
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "location": "Austin, TX",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "FastAPI",
+      "SQLAlchemy",
+      "PostgreSQL",
+      "Docker",
+      "AWS"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1043",
+    "role": "Backend Developer",
+    "company_type": "Cloud Consulting",
+    "company_name": "Cloud Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git",
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "Node.js": 9,
+      "REST APIs": 10,
+      "SQL": 9,
+      "PostgreSQL": 8,
+      "Docker": 8,
+      "Authentication": 8,
+      "Git": 8,
+      "Microservices": 7,
+      "Redis": 7,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git"
+    ],
+    "optional_skills": [
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "location": "Remote",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Java",
+      "Spring Boot",
+      "MySQL",
+      "Kafka",
+      "Docker",
+      "Microservices"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1044",
+    "role": "Backend Developer",
+    "company_type": "AI Startup",
+    "company_name": "AI Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git",
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "Node.js": 9,
+      "REST APIs": 10,
+      "SQL": 9,
+      "PostgreSQL": 8,
+      "Docker": 8,
+      "Authentication": 8,
+      "Git": 8,
+      "Microservices": 7,
+      "Redis": 7,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git"
+    ],
+    "optional_skills": [
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "location": "Bangalore, India",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Node.js",
+      "Express",
+      "TypeScript",
+      "PostgreSQL",
+      "Docker",
+      "Redis",
+      "REST APIs"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1045",
+    "role": "Backend Developer",
+    "company_type": "E-Commerce Scale-up",
+    "company_name": "E-Commerce Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git",
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "Node.js": 9,
+      "REST APIs": 10,
+      "SQL": 9,
+      "PostgreSQL": 8,
+      "Docker": 8,
+      "Authentication": 8,
+      "Git": 8,
+      "Microservices": 7,
+      "Redis": 7,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git"
+    ],
+    "optional_skills": [
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "location": "Seattle, WA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "FastAPI",
+      "SQLAlchemy",
+      "PostgreSQL",
+      "Docker",
+      "AWS"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1046",
+    "role": "Backend Developer",
+    "company_type": "Enterprise SaaS",
+    "company_name": "Enterprise Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git",
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "Node.js": 9,
+      "REST APIs": 10,
+      "SQL": 9,
+      "PostgreSQL": 8,
+      "Docker": 8,
+      "Authentication": 8,
+      "Git": 8,
+      "Microservices": 7,
+      "Redis": 7,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git"
+    ],
+    "optional_skills": [
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "location": "New York, NY",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Java",
+      "Spring Boot",
+      "MySQL",
+      "Kafka",
+      "Docker",
+      "Microservices"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1047",
+    "role": "Backend Developer",
+    "company_type": "Healthtech",
+    "company_name": "Healthtech Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git",
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "Node.js": 9,
+      "REST APIs": 10,
+      "SQL": 9,
+      "PostgreSQL": 8,
+      "Docker": 8,
+      "Authentication": 8,
+      "Git": 8,
+      "Microservices": 7,
+      "Redis": 7,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git"
+    ],
+    "optional_skills": [
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "location": "London, UK",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Node.js",
+      "Express",
+      "TypeScript",
+      "PostgreSQL",
+      "Docker",
+      "Redis",
+      "REST APIs"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1048",
+    "role": "Backend Developer",
+    "company_type": "Fintech",
+    "company_name": "Fintech Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git",
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "Node.js": 9,
+      "REST APIs": 10,
+      "SQL": 9,
+      "PostgreSQL": 8,
+      "Docker": 8,
+      "Authentication": 8,
+      "Git": 8,
+      "Microservices": 7,
+      "Redis": 7,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git"
+    ],
+    "optional_skills": [
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "location": "San Francisco, CA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "FastAPI",
+      "SQLAlchemy",
+      "PostgreSQL",
+      "Docker",
+      "AWS"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1049",
+    "role": "Backend Developer",
+    "company_type": "Consumer Tech",
+    "company_name": "Consumer Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git",
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "Node.js": 9,
+      "REST APIs": 10,
+      "SQL": 9,
+      "PostgreSQL": 8,
+      "Docker": 8,
+      "Authentication": 8,
+      "Git": 8,
+      "Microservices": 7,
+      "Redis": 7,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git"
+    ],
+    "optional_skills": [
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "location": "Austin, TX",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Java",
+      "Spring Boot",
+      "MySQL",
+      "Kafka",
+      "Docker",
+      "Microservices"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1050",
+    "role": "Backend Developer",
+    "company_type": "Cybersecurity",
+    "company_name": "Cybersecurity Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git",
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "Node.js": 9,
+      "REST APIs": 10,
+      "SQL": 9,
+      "PostgreSQL": 8,
+      "Docker": 8,
+      "Authentication": 8,
+      "Git": 8,
+      "Microservices": 7,
+      "Redis": 7,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git"
+    ],
+    "optional_skills": [
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "location": "Remote",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Node.js",
+      "Express",
+      "TypeScript",
+      "PostgreSQL",
+      "Docker",
+      "Redis",
+      "REST APIs"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1051",
+    "role": "Backend Developer",
+    "company_type": "Cloud Consulting",
+    "company_name": "Cloud Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git",
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "Node.js": 9,
+      "REST APIs": 10,
+      "SQL": 9,
+      "PostgreSQL": 8,
+      "Docker": 8,
+      "Authentication": 8,
+      "Git": 8,
+      "Microservices": 7,
+      "Redis": 7,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git"
+    ],
+    "optional_skills": [
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "location": "Bangalore, India",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "FastAPI",
+      "SQLAlchemy",
+      "PostgreSQL",
+      "Docker",
+      "AWS"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1052",
+    "role": "Backend Developer",
+    "company_type": "AI Startup",
+    "company_name": "AI Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git",
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "Node.js": 9,
+      "REST APIs": 10,
+      "SQL": 9,
+      "PostgreSQL": 8,
+      "Docker": 8,
+      "Authentication": 8,
+      "Git": 8,
+      "Microservices": 7,
+      "Redis": 7,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git"
+    ],
+    "optional_skills": [
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "location": "Seattle, WA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Java",
+      "Spring Boot",
+      "MySQL",
+      "Kafka",
+      "Docker",
+      "Microservices"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1053",
+    "role": "Backend Developer",
+    "company_type": "E-Commerce Scale-up",
+    "company_name": "E-Commerce Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git",
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "Node.js": 9,
+      "REST APIs": 10,
+      "SQL": 9,
+      "PostgreSQL": 8,
+      "Docker": 8,
+      "Authentication": 8,
+      "Git": 8,
+      "Microservices": 7,
+      "Redis": 7,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git"
+    ],
+    "optional_skills": [
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "location": "New York, NY",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Node.js",
+      "Express",
+      "TypeScript",
+      "PostgreSQL",
+      "Docker",
+      "Redis",
+      "REST APIs"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1054",
+    "role": "Backend Developer",
+    "company_type": "Enterprise SaaS",
+    "company_name": "Enterprise Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git",
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "Node.js": 9,
+      "REST APIs": 10,
+      "SQL": 9,
+      "PostgreSQL": 8,
+      "Docker": 8,
+      "Authentication": 8,
+      "Git": 8,
+      "Microservices": 7,
+      "Redis": 7,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git"
+    ],
+    "optional_skills": [
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "location": "London, UK",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "FastAPI",
+      "SQLAlchemy",
+      "PostgreSQL",
+      "Docker",
+      "AWS"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1055",
+    "role": "Backend Developer",
+    "company_type": "Healthtech",
+    "company_name": "Healthtech Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git",
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "skill_importance": {
+      "Node.js": 9,
+      "REST APIs": 10,
+      "SQL": 9,
+      "PostgreSQL": 8,
+      "Docker": 8,
+      "Authentication": 8,
+      "Git": 8,
+      "Microservices": 7,
+      "Redis": 7,
+      "CI/CD": 6
+    },
+    "required_skills": [
+      "Node.js",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "Authentication",
+      "Git"
+    ],
+    "optional_skills": [
+      "Microservices",
+      "Redis",
+      "CI/CD"
+    ],
+    "location": "San Francisco, CA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Java",
+      "Spring Boot",
+      "MySQL",
+      "Kafka",
+      "Docker",
+      "Microservices"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1056",
+    "role": "Data Analyst",
+    "company_type": "Fintech",
+    "company_name": "Fintech Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Tableau",
+      "Power BI",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "skill_importance": {
+      "SQL": 10,
+      "Excel": 9,
+      "Python": 8,
+      "Tableau": 8,
+      "Power BI": 8,
+      "Data Visualization": 9,
+      "Statistics": 8
+    },
+    "required_skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "optional_skills": [
+      "Tableau",
+      "Power BI"
+    ],
+    "location": "Austin, TX",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "SQL",
+      "Python",
+      "Tableau",
+      "Excel",
+      "Pandas",
+      "Power BI"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1057",
+    "role": "Data Analyst",
+    "company_type": "Consumer Tech",
+    "company_name": "Consumer Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Tableau",
+      "Power BI",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "skill_importance": {
+      "SQL": 10,
+      "Excel": 9,
+      "Python": 8,
+      "Tableau": 8,
+      "Power BI": 8,
+      "Data Visualization": 9,
+      "Statistics": 8
+    },
+    "required_skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "optional_skills": [
+      "Tableau",
+      "Power BI"
+    ],
+    "location": "Remote",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "SQL",
+      "R",
+      "Power BI",
+      "Data Cleaning",
+      "Statistics"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1058",
+    "role": "Data Analyst",
+    "company_type": "Cybersecurity",
+    "company_name": "Cybersecurity Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Tableau",
+      "Power BI",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "skill_importance": {
+      "SQL": 10,
+      "Excel": 9,
+      "Python": 8,
+      "Tableau": 8,
+      "Power BI": 8,
+      "Data Visualization": 9,
+      "Statistics": 8
+    },
+    "required_skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "optional_skills": [
+      "Tableau",
+      "Power BI"
+    ],
+    "location": "Bangalore, India",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "SQL",
+      "Python",
+      "Google Data Studio",
+      "PostgreSQL",
+      "Excel"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1059",
+    "role": "Data Analyst",
+    "company_type": "Cloud Consulting",
+    "company_name": "Cloud Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Tableau",
+      "Power BI",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "skill_importance": {
+      "SQL": 10,
+      "Excel": 9,
+      "Python": 8,
+      "Tableau": 8,
+      "Power BI": 8,
+      "Data Visualization": 9,
+      "Statistics": 8
+    },
+    "required_skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "optional_skills": [
+      "Tableau",
+      "Power BI"
+    ],
+    "location": "Seattle, WA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "SQL",
+      "Python",
+      "Tableau",
+      "Excel",
+      "Pandas",
+      "Power BI"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1060",
+    "role": "Data Analyst",
+    "company_type": "AI Startup",
+    "company_name": "AI Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Tableau",
+      "Power BI",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "skill_importance": {
+      "SQL": 10,
+      "Excel": 9,
+      "Python": 8,
+      "Tableau": 8,
+      "Power BI": 8,
+      "Data Visualization": 9,
+      "Statistics": 8
+    },
+    "required_skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "optional_skills": [
+      "Tableau",
+      "Power BI"
+    ],
+    "location": "New York, NY",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "SQL",
+      "R",
+      "Power BI",
+      "Data Cleaning",
+      "Statistics"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1061",
+    "role": "Data Analyst",
+    "company_type": "E-Commerce Scale-up",
+    "company_name": "E-Commerce Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Tableau",
+      "Power BI",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "skill_importance": {
+      "SQL": 10,
+      "Excel": 9,
+      "Python": 8,
+      "Tableau": 8,
+      "Power BI": 8,
+      "Data Visualization": 9,
+      "Statistics": 8
+    },
+    "required_skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "optional_skills": [
+      "Tableau",
+      "Power BI"
+    ],
+    "location": "London, UK",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "SQL",
+      "Python",
+      "Google Data Studio",
+      "PostgreSQL",
+      "Excel"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1062",
+    "role": "Data Analyst",
+    "company_type": "Enterprise SaaS",
+    "company_name": "Enterprise Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Tableau",
+      "Power BI",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "skill_importance": {
+      "SQL": 10,
+      "Excel": 9,
+      "Python": 8,
+      "Tableau": 8,
+      "Power BI": 8,
+      "Data Visualization": 9,
+      "Statistics": 8
+    },
+    "required_skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "optional_skills": [
+      "Tableau",
+      "Power BI"
+    ],
+    "location": "San Francisco, CA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "SQL",
+      "Python",
+      "Tableau",
+      "Excel",
+      "Pandas",
+      "Power BI"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1063",
+    "role": "Data Analyst",
+    "company_type": "Healthtech",
+    "company_name": "Healthtech Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Tableau",
+      "Power BI",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "skill_importance": {
+      "SQL": 10,
+      "Excel": 9,
+      "Python": 8,
+      "Tableau": 8,
+      "Power BI": 8,
+      "Data Visualization": 9,
+      "Statistics": 8
+    },
+    "required_skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "optional_skills": [
+      "Tableau",
+      "Power BI"
+    ],
+    "location": "Austin, TX",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "SQL",
+      "R",
+      "Power BI",
+      "Data Cleaning",
+      "Statistics"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1064",
+    "role": "Data Analyst",
+    "company_type": "Fintech",
+    "company_name": "Fintech Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Tableau",
+      "Power BI",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "skill_importance": {
+      "SQL": 10,
+      "Excel": 9,
+      "Python": 8,
+      "Tableau": 8,
+      "Power BI": 8,
+      "Data Visualization": 9,
+      "Statistics": 8
+    },
+    "required_skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "optional_skills": [
+      "Tableau",
+      "Power BI"
+    ],
+    "location": "Remote",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "SQL",
+      "Python",
+      "Google Data Studio",
+      "PostgreSQL",
+      "Excel"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1065",
+    "role": "Data Analyst",
+    "company_type": "Consumer Tech",
+    "company_name": "Consumer Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Tableau",
+      "Power BI",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "skill_importance": {
+      "SQL": 10,
+      "Excel": 9,
+      "Python": 8,
+      "Tableau": 8,
+      "Power BI": 8,
+      "Data Visualization": 9,
+      "Statistics": 8
+    },
+    "required_skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "optional_skills": [
+      "Tableau",
+      "Power BI"
+    ],
+    "location": "Bangalore, India",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "SQL",
+      "Python",
+      "Tableau",
+      "Excel",
+      "Pandas",
+      "Power BI"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1066",
+    "role": "Data Analyst",
+    "company_type": "Cybersecurity",
+    "company_name": "Cybersecurity Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Tableau",
+      "Power BI",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "skill_importance": {
+      "SQL": 10,
+      "Excel": 9,
+      "Python": 8,
+      "Tableau": 8,
+      "Power BI": 8,
+      "Data Visualization": 9,
+      "Statistics": 8
+    },
+    "required_skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "optional_skills": [
+      "Tableau",
+      "Power BI"
+    ],
+    "location": "Seattle, WA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "SQL",
+      "R",
+      "Power BI",
+      "Data Cleaning",
+      "Statistics"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1067",
+    "role": "Data Analyst",
+    "company_type": "Cloud Consulting",
+    "company_name": "Cloud Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Tableau",
+      "Power BI",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "skill_importance": {
+      "SQL": 10,
+      "Excel": 9,
+      "Python": 8,
+      "Tableau": 8,
+      "Power BI": 8,
+      "Data Visualization": 9,
+      "Statistics": 8
+    },
+    "required_skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "optional_skills": [
+      "Tableau",
+      "Power BI"
+    ],
+    "location": "New York, NY",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "SQL",
+      "Python",
+      "Google Data Studio",
+      "PostgreSQL",
+      "Excel"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1068",
+    "role": "Data Scientist",
+    "company_type": "AI Startup",
+    "company_name": "AI Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "Scikit-Learn",
+      "Data Modeling"
+    ],
+    "skill_importance": {
+      "Python": 10,
+      "SQL": 8,
+      "Machine Learning": 9,
+      "Statistics": 9,
+      "Pandas": 9,
+      "Scikit-Learn": 8,
+      "Data Modeling": 8
+    },
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "Scikit-Learn"
+    ],
+    "optional_skills": [
+      "Data Modeling"
+    ],
+    "location": "London, UK",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "Pandas",
+      "Scikit-Learn",
+      "SQL",
+      "TensorFlow",
+      "Statistics"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1069",
+    "role": "Data Scientist",
+    "company_type": "E-Commerce Scale-up",
+    "company_name": "E-Commerce Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "Scikit-Learn",
+      "Data Modeling"
+    ],
+    "skill_importance": {
+      "Python": 10,
+      "SQL": 8,
+      "Machine Learning": 9,
+      "Statistics": 9,
+      "Pandas": 9,
+      "Scikit-Learn": 8,
+      "Data Modeling": 8
+    },
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "Scikit-Learn"
+    ],
+    "optional_skills": [
+      "Data Modeling"
+    ],
+    "location": "San Francisco, CA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "PyTorch",
+      "NumPy",
+      "SQL",
+      "Jupyter",
+      "Machine Learning"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1070",
+    "role": "Data Scientist",
+    "company_type": "Enterprise SaaS",
+    "company_name": "Enterprise Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "Scikit-Learn",
+      "Data Modeling"
+    ],
+    "skill_importance": {
+      "Python": 10,
+      "SQL": 8,
+      "Machine Learning": 9,
+      "Statistics": 9,
+      "Pandas": 9,
+      "Scikit-Learn": 8,
+      "Data Modeling": 8
+    },
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "Scikit-Learn"
+    ],
+    "optional_skills": [
+      "Data Modeling"
+    ],
+    "location": "Austin, TX",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "Pandas",
+      "Scikit-Learn",
+      "SQL",
+      "TensorFlow",
+      "Statistics"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1071",
+    "role": "Data Scientist",
+    "company_type": "Healthtech",
+    "company_name": "Healthtech Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "Scikit-Learn",
+      "Data Modeling"
+    ],
+    "skill_importance": {
+      "Python": 10,
+      "SQL": 8,
+      "Machine Learning": 9,
+      "Statistics": 9,
+      "Pandas": 9,
+      "Scikit-Learn": 8,
+      "Data Modeling": 8
+    },
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "Scikit-Learn"
+    ],
+    "optional_skills": [
+      "Data Modeling"
+    ],
+    "location": "Remote",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "PyTorch",
+      "NumPy",
+      "SQL",
+      "Jupyter",
+      "Machine Learning"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1072",
+    "role": "Data Scientist",
+    "company_type": "Fintech",
+    "company_name": "Fintech Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "Scikit-Learn",
+      "Data Modeling"
+    ],
+    "skill_importance": {
+      "Python": 10,
+      "SQL": 8,
+      "Machine Learning": 9,
+      "Statistics": 9,
+      "Pandas": 9,
+      "Scikit-Learn": 8,
+      "Data Modeling": 8
+    },
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "Scikit-Learn"
+    ],
+    "optional_skills": [
+      "Data Modeling"
+    ],
+    "location": "Bangalore, India",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "Pandas",
+      "Scikit-Learn",
+      "SQL",
+      "TensorFlow",
+      "Statistics"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1073",
+    "role": "Data Scientist",
+    "company_type": "Consumer Tech",
+    "company_name": "Consumer Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "Scikit-Learn",
+      "Data Modeling"
+    ],
+    "skill_importance": {
+      "Python": 10,
+      "SQL": 8,
+      "Machine Learning": 9,
+      "Statistics": 9,
+      "Pandas": 9,
+      "Scikit-Learn": 8,
+      "Data Modeling": 8
+    },
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "Scikit-Learn"
+    ],
+    "optional_skills": [
+      "Data Modeling"
+    ],
+    "location": "Seattle, WA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "PyTorch",
+      "NumPy",
+      "SQL",
+      "Jupyter",
+      "Machine Learning"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1074",
+    "role": "Data Scientist",
+    "company_type": "Cybersecurity",
+    "company_name": "Cybersecurity Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "Scikit-Learn",
+      "Data Modeling"
+    ],
+    "skill_importance": {
+      "Python": 10,
+      "SQL": 8,
+      "Machine Learning": 9,
+      "Statistics": 9,
+      "Pandas": 9,
+      "Scikit-Learn": 8,
+      "Data Modeling": 8
+    },
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "Scikit-Learn"
+    ],
+    "optional_skills": [
+      "Data Modeling"
+    ],
+    "location": "New York, NY",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "Pandas",
+      "Scikit-Learn",
+      "SQL",
+      "TensorFlow",
+      "Statistics"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1075",
+    "role": "Data Scientist",
+    "company_type": "Cloud Consulting",
+    "company_name": "Cloud Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "Scikit-Learn",
+      "Data Modeling"
+    ],
+    "skill_importance": {
+      "Python": 10,
+      "SQL": 8,
+      "Machine Learning": 9,
+      "Statistics": 9,
+      "Pandas": 9,
+      "Scikit-Learn": 8,
+      "Data Modeling": 8
+    },
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "Scikit-Learn"
+    ],
+    "optional_skills": [
+      "Data Modeling"
+    ],
+    "location": "London, UK",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "PyTorch",
+      "NumPy",
+      "SQL",
+      "Jupyter",
+      "Machine Learning"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1076",
+    "role": "Data Scientist",
+    "company_type": "AI Startup",
+    "company_name": "AI Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "Scikit-Learn",
+      "Data Modeling"
+    ],
+    "skill_importance": {
+      "Python": 10,
+      "SQL": 8,
+      "Machine Learning": 9,
+      "Statistics": 9,
+      "Pandas": 9,
+      "Scikit-Learn": 8,
+      "Data Modeling": 8
+    },
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "Scikit-Learn"
+    ],
+    "optional_skills": [
+      "Data Modeling"
+    ],
+    "location": "San Francisco, CA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "Pandas",
+      "Scikit-Learn",
+      "SQL",
+      "TensorFlow",
+      "Statistics"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1077",
+    "role": "Data Scientist",
+    "company_type": "E-Commerce Scale-up",
+    "company_name": "E-Commerce Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "Scikit-Learn",
+      "Data Modeling"
+    ],
+    "skill_importance": {
+      "Python": 10,
+      "SQL": 8,
+      "Machine Learning": 9,
+      "Statistics": 9,
+      "Pandas": 9,
+      "Scikit-Learn": 8,
+      "Data Modeling": 8
+    },
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "Scikit-Learn"
+    ],
+    "optional_skills": [
+      "Data Modeling"
+    ],
+    "location": "Austin, TX",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "PyTorch",
+      "NumPy",
+      "SQL",
+      "Jupyter",
+      "Machine Learning"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1078",
+    "role": "Data Scientist",
+    "company_type": "Enterprise SaaS",
+    "company_name": "Enterprise Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "Scikit-Learn",
+      "Data Modeling"
+    ],
+    "skill_importance": {
+      "Python": 10,
+      "SQL": 8,
+      "Machine Learning": 9,
+      "Statistics": 9,
+      "Pandas": 9,
+      "Scikit-Learn": 8,
+      "Data Modeling": 8
+    },
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "Scikit-Learn"
+    ],
+    "optional_skills": [
+      "Data Modeling"
+    ],
+    "location": "Remote",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "Pandas",
+      "Scikit-Learn",
+      "SQL",
+      "TensorFlow",
+      "Statistics"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1079",
+    "role": "Data Scientist",
+    "company_type": "Healthtech",
+    "company_name": "Healthtech Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "Scikit-Learn",
+      "Data Modeling"
+    ],
+    "skill_importance": {
+      "Python": 10,
+      "SQL": 8,
+      "Machine Learning": 9,
+      "Statistics": 9,
+      "Pandas": 9,
+      "Scikit-Learn": 8,
+      "Data Modeling": 8
+    },
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "Scikit-Learn"
+    ],
+    "optional_skills": [
+      "Data Modeling"
+    ],
+    "location": "Bangalore, India",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "PyTorch",
+      "NumPy",
+      "SQL",
+      "Jupyter",
+      "Machine Learning"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1080",
+    "role": "AI/ML Engineer",
+    "company_type": "Fintech",
+    "company_name": "Fintech Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "MLOps",
+      "Docker",
+      "REST APIs",
+      "LLMs"
+    ],
+    "skill_importance": {
+      "Python": 10,
+      "PyTorch": 9,
+      "Deep Learning": 9,
+      "MLOps": 8,
+      "Docker": 8,
+      "REST APIs": 7,
+      "LLMs": 8
+    },
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "MLOps",
+      "Docker",
+      "REST APIs"
+    ],
+    "optional_skills": [
+      "LLMs"
+    ],
+    "location": "Seattle, WA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "PyTorch",
+      "Transformers",
+      "Docker",
+      "FastAPI",
+      "MLOps",
+      "CUDA"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1081",
+    "role": "AI/ML Engineer",
+    "company_type": "Consumer Tech",
+    "company_name": "Consumer Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "MLOps",
+      "Docker",
+      "REST APIs",
+      "LLMs"
+    ],
+    "skill_importance": {
+      "Python": 10,
+      "PyTorch": 9,
+      "Deep Learning": 9,
+      "MLOps": 8,
+      "Docker": 8,
+      "REST APIs": 7,
+      "LLMs": 8
+    },
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "MLOps",
+      "Docker",
+      "REST APIs"
+    ],
+    "optional_skills": [
+      "LLMs"
+    ],
+    "location": "New York, NY",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "TensorFlow",
+      "Kubernetes",
+      "LangChain",
+      "Vector Databases",
+      "GCP"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1082",
+    "role": "AI/ML Engineer",
+    "company_type": "Cybersecurity",
+    "company_name": "Cybersecurity Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "MLOps",
+      "Docker",
+      "REST APIs",
+      "LLMs"
+    ],
+    "skill_importance": {
+      "Python": 10,
+      "PyTorch": 9,
+      "Deep Learning": 9,
+      "MLOps": 8,
+      "Docker": 8,
+      "REST APIs": 7,
+      "LLMs": 8
+    },
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "MLOps",
+      "Docker",
+      "REST APIs"
+    ],
+    "optional_skills": [
+      "LLMs"
+    ],
+    "location": "London, UK",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "PyTorch",
+      "Transformers",
+      "Docker",
+      "FastAPI",
+      "MLOps",
+      "CUDA"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1083",
+    "role": "AI/ML Engineer",
+    "company_type": "Cloud Consulting",
+    "company_name": "Cloud Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "MLOps",
+      "Docker",
+      "REST APIs",
+      "LLMs"
+    ],
+    "skill_importance": {
+      "Python": 10,
+      "PyTorch": 9,
+      "Deep Learning": 9,
+      "MLOps": 8,
+      "Docker": 8,
+      "REST APIs": 7,
+      "LLMs": 8
+    },
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "MLOps",
+      "Docker",
+      "REST APIs"
+    ],
+    "optional_skills": [
+      "LLMs"
+    ],
+    "location": "San Francisco, CA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "TensorFlow",
+      "Kubernetes",
+      "LangChain",
+      "Vector Databases",
+      "GCP"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1084",
+    "role": "AI/ML Engineer",
+    "company_type": "AI Startup",
+    "company_name": "AI Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "MLOps",
+      "Docker",
+      "REST APIs",
+      "LLMs"
+    ],
+    "skill_importance": {
+      "Python": 10,
+      "PyTorch": 9,
+      "Deep Learning": 9,
+      "MLOps": 8,
+      "Docker": 8,
+      "REST APIs": 7,
+      "LLMs": 8
+    },
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "MLOps",
+      "Docker",
+      "REST APIs"
+    ],
+    "optional_skills": [
+      "LLMs"
+    ],
+    "location": "Austin, TX",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "PyTorch",
+      "Transformers",
+      "Docker",
+      "FastAPI",
+      "MLOps",
+      "CUDA"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1085",
+    "role": "AI/ML Engineer",
+    "company_type": "E-Commerce Scale-up",
+    "company_name": "E-Commerce Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "MLOps",
+      "Docker",
+      "REST APIs",
+      "LLMs"
+    ],
+    "skill_importance": {
+      "Python": 10,
+      "PyTorch": 9,
+      "Deep Learning": 9,
+      "MLOps": 8,
+      "Docker": 8,
+      "REST APIs": 7,
+      "LLMs": 8
+    },
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "MLOps",
+      "Docker",
+      "REST APIs"
+    ],
+    "optional_skills": [
+      "LLMs"
+    ],
+    "location": "Remote",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "TensorFlow",
+      "Kubernetes",
+      "LangChain",
+      "Vector Databases",
+      "GCP"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1086",
+    "role": "AI/ML Engineer",
+    "company_type": "Enterprise SaaS",
+    "company_name": "Enterprise Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "MLOps",
+      "Docker",
+      "REST APIs",
+      "LLMs"
+    ],
+    "skill_importance": {
+      "Python": 10,
+      "PyTorch": 9,
+      "Deep Learning": 9,
+      "MLOps": 8,
+      "Docker": 8,
+      "REST APIs": 7,
+      "LLMs": 8
+    },
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "MLOps",
+      "Docker",
+      "REST APIs"
+    ],
+    "optional_skills": [
+      "LLMs"
+    ],
+    "location": "Bangalore, India",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "PyTorch",
+      "Transformers",
+      "Docker",
+      "FastAPI",
+      "MLOps",
+      "CUDA"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1087",
+    "role": "AI/ML Engineer",
+    "company_type": "Healthtech",
+    "company_name": "Healthtech Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "MLOps",
+      "Docker",
+      "REST APIs",
+      "LLMs"
+    ],
+    "skill_importance": {
+      "Python": 10,
+      "PyTorch": 9,
+      "Deep Learning": 9,
+      "MLOps": 8,
+      "Docker": 8,
+      "REST APIs": 7,
+      "LLMs": 8
+    },
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "MLOps",
+      "Docker",
+      "REST APIs"
+    ],
+    "optional_skills": [
+      "LLMs"
+    ],
+    "location": "Seattle, WA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "TensorFlow",
+      "Kubernetes",
+      "LangChain",
+      "Vector Databases",
+      "GCP"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1088",
+    "role": "AI/ML Engineer",
+    "company_type": "Fintech",
+    "company_name": "Fintech Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "MLOps",
+      "Docker",
+      "REST APIs",
+      "LLMs"
+    ],
+    "skill_importance": {
+      "Python": 10,
+      "PyTorch": 9,
+      "Deep Learning": 9,
+      "MLOps": 8,
+      "Docker": 8,
+      "REST APIs": 7,
+      "LLMs": 8
+    },
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "MLOps",
+      "Docker",
+      "REST APIs"
+    ],
+    "optional_skills": [
+      "LLMs"
+    ],
+    "location": "New York, NY",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "PyTorch",
+      "Transformers",
+      "Docker",
+      "FastAPI",
+      "MLOps",
+      "CUDA"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1089",
+    "role": "AI/ML Engineer",
+    "company_type": "Consumer Tech",
+    "company_name": "Consumer Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "MLOps",
+      "Docker",
+      "REST APIs",
+      "LLMs"
+    ],
+    "skill_importance": {
+      "Python": 10,
+      "PyTorch": 9,
+      "Deep Learning": 9,
+      "MLOps": 8,
+      "Docker": 8,
+      "REST APIs": 7,
+      "LLMs": 8
+    },
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "MLOps",
+      "Docker",
+      "REST APIs"
+    ],
+    "optional_skills": [
+      "LLMs"
+    ],
+    "location": "London, UK",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "TensorFlow",
+      "Kubernetes",
+      "LangChain",
+      "Vector Databases",
+      "GCP"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1090",
+    "role": "AI/ML Engineer",
+    "company_type": "Cybersecurity",
+    "company_name": "Cybersecurity Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "MLOps",
+      "Docker",
+      "REST APIs",
+      "LLMs"
+    ],
+    "skill_importance": {
+      "Python": 10,
+      "PyTorch": 9,
+      "Deep Learning": 9,
+      "MLOps": 8,
+      "Docker": 8,
+      "REST APIs": 7,
+      "LLMs": 8
+    },
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "MLOps",
+      "Docker",
+      "REST APIs"
+    ],
+    "optional_skills": [
+      "LLMs"
+    ],
+    "location": "San Francisco, CA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "PyTorch",
+      "Transformers",
+      "Docker",
+      "FastAPI",
+      "MLOps",
+      "CUDA"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1091",
+    "role": "AI/ML Engineer",
+    "company_type": "Cloud Consulting",
+    "company_name": "Cloud Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "MLOps",
+      "Docker",
+      "REST APIs",
+      "LLMs"
+    ],
+    "skill_importance": {
+      "Python": 10,
+      "PyTorch": 9,
+      "Deep Learning": 9,
+      "MLOps": 8,
+      "Docker": 8,
+      "REST APIs": 7,
+      "LLMs": 8
+    },
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "MLOps",
+      "Docker",
+      "REST APIs"
+    ],
+    "optional_skills": [
+      "LLMs"
+    ],
+    "location": "Austin, TX",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Python",
+      "TensorFlow",
+      "Kubernetes",
+      "LangChain",
+      "Vector Databases",
+      "GCP"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1092",
+    "role": "Cloud Engineer",
+    "company_type": "AI Startup",
+    "company_name": "AI Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "Cloud",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux",
+      "CI/CD",
+      "Networking"
+    ],
+    "skill_importance": {
+      "Cloud": 10,
+      "Docker": 9,
+      "Kubernetes": 9,
+      "Terraform": 8,
+      "Linux": 8,
+      "CI/CD": 8,
+      "Networking": 7
+    },
+    "required_skills": [
+      "Cloud",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux",
+      "CI/CD"
+    ],
+    "optional_skills": [
+      "Networking"
+    ],
+    "location": "Remote",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "AWS",
+      "Terraform",
+      "Docker",
+      "Kubernetes",
+      "Linux",
+      "CI/CD",
+      "Python"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1093",
+    "role": "Cloud Engineer",
+    "company_type": "E-Commerce Scale-up",
+    "company_name": "E-Commerce Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "Cloud",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux",
+      "CI/CD",
+      "Networking"
+    ],
+    "skill_importance": {
+      "Cloud": 10,
+      "Docker": 9,
+      "Kubernetes": 9,
+      "Terraform": 8,
+      "Linux": 8,
+      "CI/CD": 8,
+      "Networking": 7
+    },
+    "required_skills": [
+      "Cloud",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux",
+      "CI/CD"
+    ],
+    "optional_skills": [
+      "Networking"
+    ],
+    "location": "Bangalore, India",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Google Cloud",
+      "Kubernetes",
+      "Terraform",
+      "Bash",
+      "Networking",
+      "Monitoring"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1094",
+    "role": "Cloud Engineer",
+    "company_type": "Enterprise SaaS",
+    "company_name": "Enterprise Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "Cloud",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux",
+      "CI/CD",
+      "Networking"
+    ],
+    "skill_importance": {
+      "Cloud": 10,
+      "Docker": 9,
+      "Kubernetes": 9,
+      "Terraform": 8,
+      "Linux": 8,
+      "CI/CD": 8,
+      "Networking": 7
+    },
+    "required_skills": [
+      "Cloud",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux",
+      "CI/CD"
+    ],
+    "optional_skills": [
+      "Networking"
+    ],
+    "location": "Seattle, WA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "AWS",
+      "Terraform",
+      "Docker",
+      "Kubernetes",
+      "Linux",
+      "CI/CD",
+      "Python"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1095",
+    "role": "Cloud Engineer",
+    "company_type": "Healthtech",
+    "company_name": "Healthtech Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "Cloud",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux",
+      "CI/CD",
+      "Networking"
+    ],
+    "skill_importance": {
+      "Cloud": 10,
+      "Docker": 9,
+      "Kubernetes": 9,
+      "Terraform": 8,
+      "Linux": 8,
+      "CI/CD": 8,
+      "Networking": 7
+    },
+    "required_skills": [
+      "Cloud",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux",
+      "CI/CD"
+    ],
+    "optional_skills": [
+      "Networking"
+    ],
+    "location": "New York, NY",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Google Cloud",
+      "Kubernetes",
+      "Terraform",
+      "Bash",
+      "Networking",
+      "Monitoring"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1096",
+    "role": "Cloud Engineer",
+    "company_type": "Fintech",
+    "company_name": "Fintech Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "Cloud",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux",
+      "CI/CD",
+      "Networking"
+    ],
+    "skill_importance": {
+      "Cloud": 10,
+      "Docker": 9,
+      "Kubernetes": 9,
+      "Terraform": 8,
+      "Linux": 8,
+      "CI/CD": 8,
+      "Networking": 7
+    },
+    "required_skills": [
+      "Cloud",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux",
+      "CI/CD"
+    ],
+    "optional_skills": [
+      "Networking"
+    ],
+    "location": "London, UK",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "AWS",
+      "Terraform",
+      "Docker",
+      "Kubernetes",
+      "Linux",
+      "CI/CD",
+      "Python"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1097",
+    "role": "Cloud Engineer",
+    "company_type": "Consumer Tech",
+    "company_name": "Consumer Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "Cloud",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux",
+      "CI/CD",
+      "Networking"
+    ],
+    "skill_importance": {
+      "Cloud": 10,
+      "Docker": 9,
+      "Kubernetes": 9,
+      "Terraform": 8,
+      "Linux": 8,
+      "CI/CD": 8,
+      "Networking": 7
+    },
+    "required_skills": [
+      "Cloud",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux",
+      "CI/CD"
+    ],
+    "optional_skills": [
+      "Networking"
+    ],
+    "location": "San Francisco, CA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Google Cloud",
+      "Kubernetes",
+      "Terraform",
+      "Bash",
+      "Networking",
+      "Monitoring"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1098",
+    "role": "Cloud Engineer",
+    "company_type": "Cybersecurity",
+    "company_name": "Cybersecurity Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "Cloud",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux",
+      "CI/CD",
+      "Networking"
+    ],
+    "skill_importance": {
+      "Cloud": 10,
+      "Docker": 9,
+      "Kubernetes": 9,
+      "Terraform": 8,
+      "Linux": 8,
+      "CI/CD": 8,
+      "Networking": 7
+    },
+    "required_skills": [
+      "Cloud",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux",
+      "CI/CD"
+    ],
+    "optional_skills": [
+      "Networking"
+    ],
+    "location": "Austin, TX",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "AWS",
+      "Terraform",
+      "Docker",
+      "Kubernetes",
+      "Linux",
+      "CI/CD",
+      "Python"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1099",
+    "role": "Cloud Engineer",
+    "company_type": "Cloud Consulting",
+    "company_name": "Cloud Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "Cloud",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux",
+      "CI/CD",
+      "Networking"
+    ],
+    "skill_importance": {
+      "Cloud": 10,
+      "Docker": 9,
+      "Kubernetes": 9,
+      "Terraform": 8,
+      "Linux": 8,
+      "CI/CD": 8,
+      "Networking": 7
+    },
+    "required_skills": [
+      "Cloud",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux",
+      "CI/CD"
+    ],
+    "optional_skills": [
+      "Networking"
+    ],
+    "location": "Remote",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Google Cloud",
+      "Kubernetes",
+      "Terraform",
+      "Bash",
+      "Networking",
+      "Monitoring"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1100",
+    "role": "Cloud Engineer",
+    "company_type": "AI Startup",
+    "company_name": "AI Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "Cloud",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux",
+      "CI/CD",
+      "Networking"
+    ],
+    "skill_importance": {
+      "Cloud": 10,
+      "Docker": 9,
+      "Kubernetes": 9,
+      "Terraform": 8,
+      "Linux": 8,
+      "CI/CD": 8,
+      "Networking": 7
+    },
+    "required_skills": [
+      "Cloud",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux",
+      "CI/CD"
+    ],
+    "optional_skills": [
+      "Networking"
+    ],
+    "location": "Bangalore, India",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "AWS",
+      "Terraform",
+      "Docker",
+      "Kubernetes",
+      "Linux",
+      "CI/CD",
+      "Python"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1101",
+    "role": "Cloud Engineer",
+    "company_type": "E-Commerce Scale-up",
+    "company_name": "E-Commerce Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "Cloud",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux",
+      "CI/CD",
+      "Networking"
+    ],
+    "skill_importance": {
+      "Cloud": 10,
+      "Docker": 9,
+      "Kubernetes": 9,
+      "Terraform": 8,
+      "Linux": 8,
+      "CI/CD": 8,
+      "Networking": 7
+    },
+    "required_skills": [
+      "Cloud",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux",
+      "CI/CD"
+    ],
+    "optional_skills": [
+      "Networking"
+    ],
+    "location": "Seattle, WA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Google Cloud",
+      "Kubernetes",
+      "Terraform",
+      "Bash",
+      "Networking",
+      "Monitoring"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1102",
+    "role": "Software Engineer",
+    "company_type": "Enterprise SaaS",
+    "company_name": "Enterprise Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "Data Structures",
+      "Algorithms",
+      "Git",
+      "SQL",
+      "REST APIs",
+      "Testing",
+      "Object-Oriented Design"
+    ],
+    "skill_importance": {
+      "Data Structures": 9,
+      "Algorithms": 9,
+      "Git": 8,
+      "SQL": 8,
+      "REST APIs": 8,
+      "Testing": 7,
+      "Object-Oriented Design": 8
+    },
+    "required_skills": [
+      "Data Structures",
+      "Algorithms",
+      "Git",
+      "SQL",
+      "REST APIs",
+      "Testing",
+      "Object-Oriented Design"
+    ],
+    "optional_skills": [],
+    "location": "New York, NY",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Java",
+      "Spring",
+      "SQL",
+      "Git",
+      "REST APIs",
+      "Docker"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1103",
+    "role": "Software Engineer",
+    "company_type": "Healthtech",
+    "company_name": "Healthtech Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "Data Structures",
+      "Algorithms",
+      "Git",
+      "SQL",
+      "REST APIs",
+      "Testing",
+      "Object-Oriented Design"
+    ],
+    "skill_importance": {
+      "Data Structures": 9,
+      "Algorithms": 9,
+      "Git": 8,
+      "SQL": 8,
+      "REST APIs": 8,
+      "Testing": 7,
+      "Object-Oriented Design": 8
+    },
+    "required_skills": [
+      "Data Structures",
+      "Algorithms",
+      "Git",
+      "SQL",
+      "REST APIs",
+      "Testing",
+      "Object-Oriented Design"
+    ],
+    "optional_skills": [],
+    "location": "London, UK",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Linux",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1104",
+    "role": "Software Engineer",
+    "company_type": "Fintech",
+    "company_name": "Fintech Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "Data Structures",
+      "Algorithms",
+      "Git",
+      "SQL",
+      "REST APIs",
+      "Testing",
+      "Object-Oriented Design"
+    ],
+    "skill_importance": {
+      "Data Structures": 9,
+      "Algorithms": 9,
+      "Git": 8,
+      "SQL": 8,
+      "REST APIs": 8,
+      "Testing": 7,
+      "Object-Oriented Design": 8
+    },
+    "required_skills": [
+      "Data Structures",
+      "Algorithms",
+      "Git",
+      "SQL",
+      "REST APIs",
+      "Testing",
+      "Object-Oriented Design"
+    ],
+    "optional_skills": [],
+    "location": "San Francisco, CA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "TypeScript",
+      "Node.js",
+      "React",
+      "PostgreSQL",
+      "Docker",
+      "Testing"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1105",
+    "role": "Software Engineer",
+    "company_type": "Consumer Tech",
+    "company_name": "Consumer Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "Data Structures",
+      "Algorithms",
+      "Git",
+      "SQL",
+      "REST APIs",
+      "Testing",
+      "Object-Oriented Design"
+    ],
+    "skill_importance": {
+      "Data Structures": 9,
+      "Algorithms": 9,
+      "Git": 8,
+      "SQL": 8,
+      "REST APIs": 8,
+      "Testing": 7,
+      "Object-Oriented Design": 8
+    },
+    "required_skills": [
+      "Data Structures",
+      "Algorithms",
+      "Git",
+      "SQL",
+      "REST APIs",
+      "Testing",
+      "Object-Oriented Design"
+    ],
+    "optional_skills": [],
+    "location": "Austin, TX",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Java",
+      "Spring",
+      "SQL",
+      "Git",
+      "REST APIs",
+      "Docker"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1106",
+    "role": "Software Engineer",
+    "company_type": "Cybersecurity",
+    "company_name": "Cybersecurity Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "Data Structures",
+      "Algorithms",
+      "Git",
+      "SQL",
+      "REST APIs",
+      "Testing",
+      "Object-Oriented Design"
+    ],
+    "skill_importance": {
+      "Data Structures": 9,
+      "Algorithms": 9,
+      "Git": 8,
+      "SQL": 8,
+      "REST APIs": 8,
+      "Testing": 7,
+      "Object-Oriented Design": 8
+    },
+    "required_skills": [
+      "Data Structures",
+      "Algorithms",
+      "Git",
+      "SQL",
+      "REST APIs",
+      "Testing",
+      "Object-Oriented Design"
+    ],
+    "optional_skills": [],
+    "location": "Remote",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Linux",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1107",
+    "role": "Software Engineer",
+    "company_type": "Cloud Consulting",
+    "company_name": "Cloud Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "Data Structures",
+      "Algorithms",
+      "Git",
+      "SQL",
+      "REST APIs",
+      "Testing",
+      "Object-Oriented Design"
+    ],
+    "skill_importance": {
+      "Data Structures": 9,
+      "Algorithms": 9,
+      "Git": 8,
+      "SQL": 8,
+      "REST APIs": 8,
+      "Testing": 7,
+      "Object-Oriented Design": 8
+    },
+    "required_skills": [
+      "Data Structures",
+      "Algorithms",
+      "Git",
+      "SQL",
+      "REST APIs",
+      "Testing",
+      "Object-Oriented Design"
+    ],
+    "optional_skills": [],
+    "location": "Bangalore, India",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "TypeScript",
+      "Node.js",
+      "React",
+      "PostgreSQL",
+      "Docker",
+      "Testing"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1108",
+    "role": "Software Engineer",
+    "company_type": "AI Startup",
+    "company_name": "AI Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "Data Structures",
+      "Algorithms",
+      "Git",
+      "SQL",
+      "REST APIs",
+      "Testing",
+      "Object-Oriented Design"
+    ],
+    "skill_importance": {
+      "Data Structures": 9,
+      "Algorithms": 9,
+      "Git": 8,
+      "SQL": 8,
+      "REST APIs": 8,
+      "Testing": 7,
+      "Object-Oriented Design": 8
+    },
+    "required_skills": [
+      "Data Structures",
+      "Algorithms",
+      "Git",
+      "SQL",
+      "REST APIs",
+      "Testing",
+      "Object-Oriented Design"
+    ],
+    "optional_skills": [],
+    "location": "Seattle, WA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Java",
+      "Spring",
+      "SQL",
+      "Git",
+      "REST APIs",
+      "Docker"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1109",
+    "role": "Software Engineer",
+    "company_type": "E-Commerce Scale-up",
+    "company_name": "E-Commerce Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "Data Structures",
+      "Algorithms",
+      "Git",
+      "SQL",
+      "REST APIs",
+      "Testing",
+      "Object-Oriented Design"
+    ],
+    "skill_importance": {
+      "Data Structures": 9,
+      "Algorithms": 9,
+      "Git": 8,
+      "SQL": 8,
+      "REST APIs": 8,
+      "Testing": 7,
+      "Object-Oriented Design": 8
+    },
+    "required_skills": [
+      "Data Structures",
+      "Algorithms",
+      "Git",
+      "SQL",
+      "REST APIs",
+      "Testing",
+      "Object-Oriented Design"
+    ],
+    "optional_skills": [],
+    "location": "New York, NY",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Linux",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1110",
+    "role": "Software Engineer",
+    "company_type": "Enterprise SaaS",
+    "company_name": "Enterprise Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "Data Structures",
+      "Algorithms",
+      "Git",
+      "SQL",
+      "REST APIs",
+      "Testing",
+      "Object-Oriented Design"
+    ],
+    "skill_importance": {
+      "Data Structures": 9,
+      "Algorithms": 9,
+      "Git": 8,
+      "SQL": 8,
+      "REST APIs": 8,
+      "Testing": 7,
+      "Object-Oriented Design": 8
+    },
+    "required_skills": [
+      "Data Structures",
+      "Algorithms",
+      "Git",
+      "SQL",
+      "REST APIs",
+      "Testing",
+      "Object-Oriented Design"
+    ],
+    "optional_skills": [],
+    "location": "London, UK",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "TypeScript",
+      "Node.js",
+      "React",
+      "PostgreSQL",
+      "Docker",
+      "Testing"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1111",
+    "role": "Software Engineer",
+    "company_type": "Healthtech",
+    "company_name": "Healthtech Innovations Corp",
+    "experience_level": "Entry-Level / Junior (0-2 yrs)",
+    "skills": [
+      "Data Structures",
+      "Algorithms",
+      "Git",
+      "SQL",
+      "REST APIs",
+      "Testing",
+      "Object-Oriented Design"
+    ],
+    "skill_importance": {
+      "Data Structures": 9,
+      "Algorithms": 9,
+      "Git": 8,
+      "SQL": 8,
+      "REST APIs": 8,
+      "Testing": 7,
+      "Object-Oriented Design": 8
+    },
+    "required_skills": [
+      "Data Structures",
+      "Algorithms",
+      "Git",
+      "SQL",
+      "REST APIs",
+      "Testing",
+      "Object-Oriented Design"
+    ],
+    "optional_skills": [],
+    "location": "San Francisco, CA",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "Java",
+      "Spring",
+      "SQL",
+      "Git",
+      "REST APIs",
+      "Docker"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1112",
+    "role": "Software Engineer",
+    "company_type": "Fintech",
+    "company_name": "Fintech Innovations Corp",
+    "experience_level": "Mid-Level (2-5 yrs)",
+    "skills": [
+      "Data Structures",
+      "Algorithms",
+      "Git",
+      "SQL",
+      "REST APIs",
+      "Testing",
+      "Object-Oriented Design"
+    ],
+    "skill_importance": {
+      "Data Structures": 9,
+      "Algorithms": 9,
+      "Git": 8,
+      "SQL": 8,
+      "REST APIs": 8,
+      "Testing": 7,
+      "Object-Oriented Design": 8
+    },
+    "required_skills": [
+      "Data Structures",
+      "Algorithms",
+      "Git",
+      "SQL",
+      "REST APIs",
+      "Testing",
+      "Object-Oriented Design"
+    ],
+    "optional_skills": [],
+    "location": "Austin, TX",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Linux",
+      "Git"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  },
+  {
+    "job_id": "DEMO-JOB-1113",
+    "role": "Software Engineer",
+    "company_type": "Consumer Tech",
+    "company_name": "Consumer Innovations Corp",
+    "experience_level": "Senior (5+ yrs)",
+    "skills": [
+      "Data Structures",
+      "Algorithms",
+      "Git",
+      "SQL",
+      "REST APIs",
+      "Testing",
+      "Object-Oriented Design"
+    ],
+    "skill_importance": {
+      "Data Structures": 9,
+      "Algorithms": 9,
+      "Git": 8,
+      "SQL": 8,
+      "REST APIs": 8,
+      "Testing": 7,
+      "Object-Oriented Design": 8
+    },
+    "required_skills": [
+      "Data Structures",
+      "Algorithms",
+      "Git",
+      "SQL",
+      "REST APIs",
+      "Testing",
+      "Object-Oriented Design"
+    ],
+    "optional_skills": [],
+    "location": "Remote",
+    "salary_range": "$70,000 - $90,000",
+    "technology_stack": [
+      "TypeScript",
+      "Node.js",
+      "React",
+      "PostgreSQL",
+      "Docker",
+      "Testing"
+    ],
+    "dataset_source": "Demo Market Dataset (Synthetic 100+ Benchmark)"
+  }
+]

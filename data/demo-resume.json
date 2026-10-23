@@ -1,0 +1,77 @@
+{
+  "candidate": {
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@demo.edu",
+    "education": "Indian Institute of Information Technology",
+    "degree": "Bachelor of Technology (B.Tech)",
+    "branch": "Computer Science and Engineering",
+    "graduationYear": 2026,
+    "targetRole": "Full Stack Developer",
+    "summary": "Final-year Computer Science undergraduate with foundational software engineering skills, relational database design, and web development experience. Seeking an entry-level Full Stack Developer role to build scalable web applications.",
+    "extractedSkills": [
+      {
+        "name": "HTML",
+        "category": "Frontend",
+        "confidence": 0.98,
+        "evidence": "Built responsive layouts using HTML5 semantic elements in Student Management System."
+      },
+      {
+        "name": "CSS",
+        "category": "Frontend",
+        "confidence": 0.95,
+        "evidence": "Designed accessible, mobile-friendly interfaces utilizing CSS3 Flexbox and Grid."
+      },
+      {
+        "name": "JavaScript",
+        "category": "Programming Language",
+        "confidence": 0.92,
+        "evidence": "Implemented interactive client-side logic, DOM manipulation, and asynchronous fetch operations."
+      },
+      {
+        "name": "Python",
+        "category": "Programming Language",
+        "confidence": 0.88,
+        "evidence": "Built data processing scripts and automation pipelines using Python 3."
+      },
+      {
+        "name": "Git",
+        "category": "Tools & DevOps",
+        "confidence": 0.85,
+        "evidence": "Maintained collaborative version control using Git and GitHub with pull requests and code reviews."
+      },
+      {
+        "name": "MySQL",
+        "category": "Database",
+        "confidence": 0.82,
+        "evidence": "Engineered relational schema with foreign key constraints, joins, and indexing for student records."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Student Placement Management System",
+        "description": "A web portal facilitating campus placement registration, student profile tracking, and company interview scheduling with SQL database storage.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Python", "MySQL"],
+        "evidence": "Integrated relational database queries and created student dashboard with HTML/CSS."
+      },
+      {
+        "title": "Personal Portfolio & Technical Blog",
+        "description": "Static web application showcasing academic projects and technical writing on computer algorithms.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Git"],
+        "evidence": "Deployed static site using GitHub Pages with continuous updates via Git commits."
+      }
+    ],
+    "experience": [
+      {
+        "role": "Web Development Intern",
+        "company": "Campus Tech Club",
+        "duration": "June 2025 - August 2025",
+        "description": "Assisted in maintaining university event portal, fixing front-end bugs, and writing SQL data migration scripts."
+      }
+    ],
+    "certifications": [
+      "Meta Front-End Developer Specialization (In Progress)",
+      "CS50 Introduction to Computer Science (Harvard Online)"
+    ]
+  },
+  "rawResumeText": "AARAV SHARMA\nFinal-Year B.Tech Computer Science | aarav.sharma@demo.edu\nTarget: Full Stack Developer\n\nEDUCATION\nB.Tech in Computer Science and Engineering (Expected May 2026)\nIndian Institute of Information Technology - GPA: 8.4/10\n\nTECHNICAL SKILLS\n- Languages: JavaScript (ES6+), Python, SQL\n- Web Technologies: HTML5, CSS3, Flexbox, Grid, DOM API\n- Databases: MySQL (Schema design, joins, indexing)\n- Tools & Version Control: Git, GitHub, VS Code\n\nPROJECTS\n1. Student Placement Management System\n- Developed a web application for student placement tracking using HTML, CSS, JavaScript, and Python.\n- Designed normalized MySQL database schemas managing 500+ student profiles and interview logs.\n- Implemented dynamic search and filtering using vanilla JavaScript.\n\n2. Personal Portfolio & Technical Blog\n- Designed responsive personal portfolio adhering to web accessibility guidelines.\n- Hosted on GitHub Pages utilizing Git version control workflows.\n\nEXPERIENCE\nWeb Development Intern | Campus Tech Club (Summer 2025)\n- Maintained campus event pages, resolved CSS layout inconsistencies, and wrote SQL queries for reporting.\n\nCERTIFICATIONS\n- CS50x Introduction to Computer Science\n- Meta Front-End Developer Professional Certificate (In Progress)"
+}
